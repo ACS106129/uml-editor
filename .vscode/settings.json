@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib/af-image"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.exportJar.targetPath": "UMLEditor.jar",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.completion.filteredTypes": [
+        "java.awt.List",
+        "com.sun.*",
+        "sun.*",
+        "jdk.*",
+        "org.graalvm.*",
+        "io.micrometer.shaded.*"
+    ]
+}
